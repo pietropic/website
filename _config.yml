@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Pietro's webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Pietro Mesquita Piccione"
   pronouns         : # example: "she/her"  
-  bio              : "PostDoc at the University of Gothenburg working in complex geometry"
+  bio              : "PostDoc working in complex geometry"
   location         : "Gothenburg, Sweden"
   employer         : "University of Gothenburg"
   uri              : # URL
