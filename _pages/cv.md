@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Ongoing: Postdoc 
-  * University of Gotheburg
+  * University of Gothenburg
   * Supervisor: David Witt Nyström
 
 
@@ -48,4 +48,23 @@ Teaching
   
 Service 
 ======
-* Currently signed in to 43 different slack teams
+* 2021: Organizer of the [A5 Group](https://www.ime.usp.br/~acinco/en.html)
+  * A student runned academic group
+  * Over [25 weekly seminars](https://www.ime.usp.br/~acinco/past-seminars.html) organized
+  * IME - University of São Paulo
+
+* 2019: Deputy Student Representative in the Mathematics Department Council
+ * IME - University of São Paulo
+
+* 2018: Deputy Student Representative in the Mathematics Department Council
+ * IME - University of São Paulo
+
+Languages
+======
+* Portuguese: native speaker
+* Italian: native speaker
+* English: fluent
+* Spanish: fluent
+* French: fluent
+* Catalan: intermediate
+* Swedish: hopefully in two years :)
