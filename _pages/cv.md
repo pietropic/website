@@ -54,10 +54,10 @@ Service
   * IME - University of São Paulo
 
 * 2019: Deputy Student Representative in the Mathematics Department Council
- * IME - University of São Paulo
+  * IME - University of São Paulo
 
 * 2018: Deputy Student Representative in the Mathematics Department Council
- * IME - University of São Paulo
+  * IME - University of São Paulo
 
 Languages
 ======
