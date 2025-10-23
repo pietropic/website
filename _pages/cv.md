@@ -23,7 +23,7 @@ Work experience
 
 
 * Fall 2025: Short postdoc visit
-  * Erdos center
+  * Erdős Center
 
 
   
